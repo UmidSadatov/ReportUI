@@ -1,0 +1,299 @@
+{
+    "Pharm Luxe": {
+        "primary": {
+            "save": 0,
+            "sheet_index": "0",
+            "name_column": "D",
+            "balance_beginning_column": "K",
+            "incomes_column": "L",
+            "sold_number_column": "N",
+            "balance_end_column": "O",
+            "start_row_number": "5"
+        },
+        "secondary": {
+            "save": 1,
+            "sheet_index": "0",
+            "name_column": "C",
+            "region1_column": "E",
+            "region2_column": "F",
+            "sold_number_column": "H",
+            "client_column": "D",
+            "start_row_number": "5",
+            "last_row_number": ""
+        }
+    },
+    "Grand Pharm": {
+        "primary": {
+            "save": 0,
+            "sheet_index": "0",
+            "name_column": "",
+            "balance_beginning_column": "",
+            "incomes_column": "",
+            "sold_number_column": "",
+            "balance_end_column": ""
+        },
+        "secondary": {
+            "save": 1,
+            "sheet_index": "1",
+            "name_column": "A",
+            "region1_column": "I",
+            "region2_column": "J",
+            "sold_number_column": "F",
+            "client_column": "C",
+            "start_row_number": "2"
+        }
+    },
+    "Meros Pharm": {
+        "primary": {
+            "save": 0,
+            "sheet_index": "0",
+            "name_column": "",
+            "balance_beginning_column": "",
+            "incomes_column": "",
+            "sold_number_column": "",
+            "balance_end_column": ""
+        },
+        "secondary": {
+            "save": 1,
+            "sheet_index": "0",
+            "name_column": "A",
+            "region1_column": "C",
+            "region2_column": "F",
+            "sold_number_column": "H",
+            "client_column": "D",
+            "start_row_number": "7"
+        }
+    },
+    "Navbahor": {
+        "primary": {
+            "save": 0,
+            "sheet_index": "0",
+            "name_column": "",
+            "balance_beginning_column": "",
+            "incomes_column": "",
+            "sold_number_column": "",
+            "balance_end_column": ""
+        },
+        "secondary": {
+            "save": 1,
+            "sheet_index": "0",
+            "name_column": "B",
+            "region1_column": "A",
+            "region2_column": "",
+            "sold_number_column": "J",
+            "client_column": "",
+            "start_row_number": "2"
+        }
+    },
+    "Whole Pharm": {
+        "primary": {
+            "save": 0,
+            "sheet_index": "0",
+            "name_column": "",
+            "balance_beginning_column": "",
+            "incomes_column": "",
+            "sold_number_column": "",
+            "balance_end_column": ""
+        },
+        "secondary": {
+            "save": 1,
+            "sheet_index": "0",
+            "name_column": "B",
+            "region1_column": "F",
+            "region2_column": "",
+            "sold_number_column": "L",
+            "client_column": "D",
+            "start_row_number": "8"
+        }
+    },
+    "Tabletka": {
+        "primary": {
+            "save": 0,
+            "sheet_index": "0",
+            "name_column": "",
+            "balance_beginning_column": "",
+            "incomes_column": "",
+            "sold_number_column": "",
+            "balance_end_column": ""
+        },
+        "secondary": {
+            "save": 1,
+            "sheet_index": "1",
+            "name_column": "",
+            "region1_column": "",
+            "region2_column": "",
+            "sold_number_column": "+4",
+            "client_column": "",
+            "start_row_number": "2"
+        }
+    },
+    "Asklepiy": {
+        "primary": {
+            "save": 0,
+            "sheet_index": "0",
+            "name_column": "",
+            "balance_beginning_column": "",
+            "incomes_column": "",
+            "sold_number_column": "",
+            "balance_end_column": ""
+        },
+        "secondary": {
+            "save": 1,
+            "sheet_index": "0",
+            "name_column": "N",
+            "region1_column": "G",
+            "region2_column": "",
+            "sold_number_column": "Q",
+            "client_column": "",
+            "start_row_number": "2"
+        }
+    },
+    "Grand apteka": {
+        "primary": {
+            "save": 0,
+            "sheet_index": "0",
+            "name_column": "",
+            "balance_beginning_column": "",
+            "incomes_column": "",
+            "sold_number_column": "",
+            "balance_end_column": ""
+        },
+        "secondary": {
+            "save": 1,
+            "sheet_index": "0",
+            "name_column": "F",
+            "region1_column": "A",
+            "region2_column": "B",
+            "sold_number_column": "I",
+            "client_column": "",
+            "start_row_number": "2"
+        }
+    },
+    "Best Pharm": {
+        "primary": {
+            "save": 0,
+            "sheet_index": "0",
+            "name_column": "",
+            "balance_beginning_column": "",
+            "incomes_column": "",
+            "sold_number_column": "",
+            "balance_end_column": ""
+        },
+        "secondary": {
+            "save": 1,
+            "sheet_index": "1",
+            "name_column": "F",
+            "region1_column": "A",
+            "region2_column": "B",
+            "sold_number_column": "I",
+            "client_column": "",
+            "start_row_number": "2"
+        }
+    },
+    "Zenta Pharm": {
+        "primary": {
+            "save": 0,
+            "sheet_index": "0",
+            "name_column": "",
+            "balance_beginning_column": "",
+            "incomes_column": "",
+            "sold_number_column": "",
+            "balance_end_column": ""
+        },
+        "secondary": {
+            "save": 1,
+            "sheet_index": "0",
+            "name_column": "F",
+            "region1_column": "H",
+            "region2_column": "",
+            "sold_number_column": "J",
+            "client_column": "B",
+            "start_row_number": "6"
+        }
+    },
+    "OxyMed": {
+        "primary": {
+            "save": 0,
+            "sheet_index": "0",
+            "name_column": "",
+            "balance_beginning_column": "",
+            "incomes_column": "",
+            "sold_number_column": "",
+            "balance_end_column": ""
+        },
+        "secondary": {
+            "save": 1,
+            "sheet_index": "0",
+            "name_column": "D",
+            "region1_column": "A",
+            "region2_column": "",
+            "sold_number_column": "G",
+            "client_column": "",
+            "start_row_number": "1"
+        }
+    },
+    "Pharma Choice": {
+        "primary": {
+            "save": 0,
+            "sheet_index": "0",
+            "name_column": "",
+            "balance_beginning_column": "",
+            "incomes_column": "",
+            "sold_number_column": "",
+            "balance_end_column": ""
+        },
+        "secondary": {
+            "save": 0,
+            "sheet_index": "1",
+            "name_column": "",
+            "region1_column": "",
+            "region2_column": "",
+            "sold_number_column": "",
+            "client_column": "",
+            "start_row_number": "1"
+        }
+    },
+    "Pharma Cosmos": {
+        "primary": {
+            "save": 0,
+            "sheet_index": "0",
+            "name_column": "",
+            "balance_beginning_column": "",
+            "incomes_column": "",
+            "sold_number_column": "",
+            "balance_end_column": ""
+        },
+        "secondary": {
+            "save": 0,
+            "sheet_index": "0",
+            "name_column": "",
+            "region1_column": "",
+            "region2_column": "",
+            "sold_number_column": "",
+            "client_column": "",
+            "start_row_number": "1"
+        }
+    },
+    "Akmal Pharm": {
+        "primary": {
+            "save": 0,
+            "sheet_index": "0",
+            "name_column": "",
+            "balance_beginning_column": "",
+            "incomes_column": "",
+            "sold_number_column": "",
+            "balance_end_column": ""
+        },
+        "secondary": {
+            "save": 0,
+            "sheet_index": "",
+            "name_column": "",
+            "region1_column": "",
+            "region2_column": "",
+            "sold_number_column": "",
+            "client_column": "",
+            "start_row_number": "",
+            "last_row_number": ""
+        }
+    }
+}
